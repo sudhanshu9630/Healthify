@@ -16,7 +16,7 @@ const Hero = () => {
                 <img src={sunita} alt="" className="w-5/6 mx-auto mb-12 -mt-20 rounded-3xl shadow-md lg:-mt-40 dark:bg-gray-500" />
                 <div className='h-60 -mt-32 -z-50 '>
                     <p className='w-full pb-4 absolute text-green-600 text-center bottom-0 bg-green-100'>
-                        <a href="https://github.com/shakti1590">Made by @shakti  </a>
+                        <a href="https://github.com/sudhanshu9630">Made by @sudhanshu  </a>
                     </p>
                 </div>
 
